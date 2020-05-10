@@ -38,7 +38,7 @@ def gether_data(mas):
         mes = ("Country: {0}\nTotal Cases: {1}\nNew Cases: "
                "{2}\nTotal Deaths:{3}\nTotal Recovered: {4}\nActive Cases: {5}").format(mas[1],
                                                                                         mas[2],
-                                                                                        mas[4],
+                                                                                        mas[3],
                                                                                         mas[5],
                                                                                         mas[6],
                                                                                         mas[7], )
